@@ -107,7 +107,7 @@ const skills = [
 
 const experience = [
   {
-    name: 'INNOMINDS PVT LTD | Software Engineer',
+    name: 'INNOMINDS | Software Engineer',
     description:
       'Built a scalable Java-based transaction and real-time payment system, boosting performance by 40% and validation coverage by 35%,Implemented secure, multi-environment API architecture, reducing setup effort by 60% and unauthorized access by 90%.',
     stack: ['June 2022 - Jan 2025', 'Hyderabad, India'],
@@ -115,7 +115,7 @@ const experience = [
   {
     name: 'COGNIZANT | Software Engineer Intern',
     description:
-      'Developed RESTful API backend components using Java and Spring Boot for an internal request management system, implementing business logic, input validation across service layers.\n\nOptimized backend query performance and implemented database connection pooling, reducing API response time by 25% ',
+      'Developed RESTful API backend components for an internal request management system, implementing business logic, input validation across service layers.\n\nOptimized backend query performance and implemented database connection pooling',
     stack: ['Jan 2022 - May 2022', 'Hyderabad, India'],
   }
 ]
