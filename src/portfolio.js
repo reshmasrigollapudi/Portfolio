@@ -115,7 +115,7 @@ const experience = [
   {
     name: 'COGNIZANT | Software Engineer Intern',
     description:
-      'Developed RESTful API backend components using Java and Spring Boot for an internal request management system, implementing business logic, input validation, and exception handling across service layers.\n\nOptimized backend query performance and implemented database connection pooling, reducing API response time by 25% ',
+      'Developed RESTful API backend components using Java and Spring Boot for an internal request management system, implementing business logic, input validation across service layers.\n\nOptimized backend query performance and implemented database connection pooling, reducing API response time by 25% ',
     stack: ['Jan 2022 - May 2022', 'Hyderabad, India'],
   }
 ]
